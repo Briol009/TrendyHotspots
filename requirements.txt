@@ -1,0 +1,7 @@
+requests
+pandas
+folium
+numpy
+dask
+dask-distributed
+shapely
