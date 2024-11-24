@@ -11,11 +11,11 @@ This MVP is designed to generate a heatmap of the Twin Cities area, showing 'tre
 ### Run this application
 Open the Binder link below, wait a minute or two, and it will launch an interactive Jupyter Notebook containing my code. Input your own Google API Key, then run all the cells (click Run at the top--> Run All Cells) and the program will run. Warning: with default settings, this costs about $70 in Google Cloud Credits! After some time, the project will save an output map. 
 
-https://mybinder.org/v2/gh/Briol009/TrendyHotspots/main?labpath=TrendyHotspots.ipynb
+https://mybinder.org/v2/gh/briollaure/TrendyHotspots/main?labpath=TrendyHotspots.ipynb
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Briol009/TrendyHotspots/main?labpath=TrendyHotspots.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/briollaure/TrendyHotspots/main?labpath=TrendyHotspots.ipynb)
 
 ### View the results
 View the results of the project at this link! 
 
-https://briol009.github.io/TrendyHotspots/
+https://briollaure.github.io/TrendyHotspots/
